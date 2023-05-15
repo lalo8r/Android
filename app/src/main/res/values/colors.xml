@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#042139</color>
+
+    <color name="colorPrimary">#0f3e67</color>
+    <color name="colorPrimaryDark">#042139</color>
+    <color name="colorAccent">#042139</color>
+    <color name="appBackground">#efefef</color>
+    <color name="appBackgroundItem">#fff</color>
+    <color name="appBackgroundItemDisabled">#F3F3F3</color>
+    <color name="appTitleColor">#0d3558</color>
+    <color name="appRowHighLightedColor">#316D9C</color>
+    <color name="appLabelColor">#042139</color>
+    <color name="appLabelColorWarning">#FF9800</color>
+    <color name="appTextColor">#000</color>
+    <color name="appTextColorError">#F44336</color>
+    <color name="appTextColorWarning">#CA8F39</color>
+    <color name="appTextColorNotice">#11a946</color>
+    <color name="appListSeparatorColor">#042139</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UNIMovil</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="prompt_username">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Autenticar</string>
+
+    <string name="text_empty"></string>
+    <string name="action_sign_in_short">Autenticar</string>
+</resources>
